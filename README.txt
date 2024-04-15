@@ -4,14 +4,9 @@ Title: Image Caption Generator with Accessibility Features
 
 Team Members:
 
-Naga Sai Tejaswi Gandu
-Student ID:01987559 (nagasaitejaswi_gandu@student.uml.edu)
-
 Ranga Rohitt nallamolu
-Student ID: 02014069 (rangarohit_nallamolu@student.uml.edu)
 
 Prathyusha reddy Nandikonda 
-Student ID: 02028214 (prathyushareddy_nandikonda@student.uml.edu)
 
 Steps to execute the code:
 
